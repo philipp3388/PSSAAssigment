@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1615075442 source:c:\users\phili\desktop\innopolis\programming software systems\semester 2\homework02\assigment2\main.cpp
+	<iostream>
+	<human.h>
+	<enums.h>
+	<room.h>
+
+1615075343 c:\users\phili\desktop\innopolis\programming software systems\semester 2\homework02\assigment2\include\human.h
+	<bits/stdc++.h>
+	<enums.h>
+
+1615075343 c:\users\phili\desktop\innopolis\programming software systems\semester 2\homework02\assigment2\include\enums.h
+	<bits/stdc++.h>
+
+1615075430 c:\users\phili\desktop\innopolis\programming software systems\semester 2\homework02\assigment2\include\room.h
+	<bits/stdc++.h>
+	<enums.h>
+	<human.h>
+
